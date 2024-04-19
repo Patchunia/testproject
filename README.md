@@ -11,4 +11,7 @@ To get started with running the tests, follow these steps:
 
 ## Running Tests
 To run the automated tests, execute the following command:
-mvn test -Dtest=AddUserTest
+mvn test -Dtest=TestRunner
+
+## Loacte Test Report
+After executing the report navigate to the test report on folder target/extent.html
